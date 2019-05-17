@@ -1,2 +1,2 @@
-# Coursera_Capstone
+# Capstone_Projects
 Created for study purposes.
